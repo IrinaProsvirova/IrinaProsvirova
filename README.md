@@ -1,5 +1,5 @@
 # 🙋 Добро пожаловать на мою страницу #
-## <div align="center"> Меня зовут Ирина. Я Junior Manual QA Engineer. </div> ##
+### <div align="center"> Меня зовут Ирина. Я Junior Manual QA Engineer. </div> ###
 
 ### ✉️Связаться со мной 
 [![Telegram](https://img.shields.io/badge/-@akira_pro-FFFFFF?style=for-the-badge&logo=telegram&logoColor=27A0D9)](http://t.me/akira_pro)
